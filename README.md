@@ -13,15 +13,8 @@ Project Structure
 
 This repository is expected to have the following basic structure:
 
-your_project/
-├── docker-compose.yml  # This README file you're reading
-├── Dockerfile          # (Optional) If you need a custom image for your Django application
-├── app/                # Your Django application code goes here (replace with your actual app name)
-│   ├── __init__.py
-│   ├── manage.py
-│   ├── requirements.txt  # Your project's dependencies
-│   └── ...              # Your application modules and files
-├── ...                 # Other project files (if any)
+![image](https://github.com/Codingmasster/Django-Compose-Lamp/assets/42047968/d5339edd-f32b-4f20-a366-2cea8b541974)
+
 
 Using Docker Compose
 
